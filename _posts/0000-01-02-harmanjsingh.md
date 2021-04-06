@@ -2,4 +2,4 @@
   
  <p>Use the left arrow to go back!<p>
 
-*dank meme*
+*dank meme is the best*
